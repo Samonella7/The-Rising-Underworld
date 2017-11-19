@@ -1,0 +1,89 @@
+1.0.0
+1/20/16
+-----
+Complete campaign published
+
+1.0.1
+idk
+-----
+*Fixed game-breaking bug that left Reginald "hidden" in the first scenario
+
+1.0.2
+idk
+-----
+-Changed various demons, legends and other units from having their own set of 
+	slightly modified images to using IPFs to modify mainline images in-game.
+-Other small touch-ups
+
+1.0.3
+idk
+-----
+*Fixed game-breaking bug from 1.0.2 that wiped out the recall list after 
+	16_The_Council_of_War, making future scenarios impossible
+
+1.0.4
+7/22/16
+-----
+Various touch-ups:
+*Fixed numerous typos
+*23_Lichs_Den: Added an instant full-heal tile in the entrance hall
+-10_The_Far_North: Added more un-snowy ground
+-11_Tentacles_and_Serpents: Shortened the narrow passage in the cave entrance
+-17_Demon_Ciner: Removed FORCE_CHANCE_TO_HIT from battles involving Demon Ciner
+-Fixed bug involving Demon Umber's movetype
+-23_Lichs_Den: Tweaked dialogue and magic rings
+
+1.0.5
+9/8/16
+-----
+*Added the changelog.txt file
+-Slightly improved the campaign description
+-23_Lichs_Den: Used fake_map_edge around the starting area
+-23_Lichs_Den: Lifted some shroud around the final path (so you can tell it's a path)
+
+1.1.0
+1/30/17
+-----
+* Sprite Changes:
+	-Removed mainline campaigns from the credits
+	-Added new sprites for the kracken, undead cuttlefish, skeleton mage, and demon ciner
+	-Tweaked the skeleton sorcerer sprites
+	-Legendary Dragon now uses mainline fire dragon sprite
+* 1_Honorable_Death:
+	-Changed the map so each demons' forces would begin fighting closer to the same time
+	-increased all sides' gold, especially Konrad III
+	-Increased the amount of skeletons that try to stop your escape
+	-The water/lava that almost cuts of your escape now appears in a turn 2 event
+	-instead of recruiting, you start with 4 soldiers with special traits
+	-Cut out lots of dialogue (it was way too windy before)
+* Basically completely re-made 21_Demon_Umber
+	-Map is much bigger
+	-Umber's income is reliant on the dozens of villages he starts with, so you can 
+		beat him by taking control of the map
+	-There's a team of peasants fighting a hopeless cause to survive
+	-New, more, and better dialogue
+* 12_Canyon_of_the_Khalifate: changed the end battle so you can't just camp the
+	cave mouth and kill the final enemies safely
+* Various dialogue trims and other tweaks
+	-Great horde doesn't sail south with the gang anymore, they stay in the north
+		until Ferok needs them (in 10_The_Far_North)
+	-New conersation between Dulthaus and Gepha when they first meet
+* Various balance tweaks
+-23_Lichs_Den: added more cave-path to Umber's part
+-23_Lichs_Den: blocked off the southern dead-end sections
+	(code for rings/units is unchanged, just the path is blocked off)
+-18_Demon_Sicc: you're no longer forced to kill the demon with gepha 
+	(though it's still a very good idea)
+-22_Demon_Thal: tweaked the events & dialogue surrounding Reginald entering Fire Island
+-Removed the big map of wesnoth picture, since i realized that mainline wesnoth 
+	already has it
+-Tweaked the skeleton mage stats
+-Tweaked Demon Ciner & Zeph stats
+-Nerfed Lombosilvitac-Sagadendol
+-Moved the events related to the enshadows ability to the units' files (from the 
+	scenarios that those units appear in)
+-Disallowed recruiting Cavalrymen and Elvish Captains
+
+
+
+

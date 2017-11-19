@@ -1,0 +1,20 @@
+border_size=1
+usage=map
+
+Re, Dd, Re, Dd, Dd, Dd, Dd, Dd, Re, Dd, Re, Dd, Re, Dd, Hd, Md, Md, Hd, Hd, Dd, Re, Dd, Dd, Re, Re, Re
+Dd, Dd, Dd, Dd, Re, Dd, Re, Dd, Dd, Dd, Dd, Re, Re, Re, Hhd, Hd, Hd, Hd, Re, Re, Re, Dd, Dd, Dd, Dd, Re
+Re, Dd, Hd, Dd, Re, Re, Rb, Rb, Re, Dd, Re, Dd, Re, Re, Re, Hd, Dd, Dd, Re, Re, Re, Re, Dd, Re, Dd, Dd
+Dd, Hd, Hhd, Re, Rb, Dd, Rb, Cdr, Cdr, Cdr, Cdr, Re, Dd, Dd, Re, Re, Re, Re, Re, Dd, Dd, Dd, Dd, Dd, Dd, Dd
+Dd, Hd, Dd, Dd, Re, Rb, Cdr, Cdr, 2 Kdr, Rb, Cdr, Rb, Re, Rb, Re, Dd, Re, Re, Re, Dd, Dd, Re, Re, Re, Re, Dd
+Dd, Re, Dd, Dd, Dd, Cdr, Rb, Cdr, Cdr, Rb, Re, Rb, Dd, Dd, Dd, Re, Dd, Dd, Hhd, Re, Hhd, Dd, Re, Re, Re, Dd
+Dd, Hd, Dd, Dd, Dd, Rb, Rb, Dd, Re, Rb, Re, Re, Rb, Dd, Re, Re, Hd, Hd, Hhd, Hhd, Dd, Re, Dd, Dd, Re, Re
+Re, Re, Re, Re, Re, Re, Re, Re, Rb, Re, Dd, Dd, Dd^Vht, Re, Re, Re, Hd, Md, Re, Re, Dd, Dd^Vht, Dd, Dd, Gs, Gs
+Re, Re, Re, Re, Re, Re, Re, Re, Re, Re, Dd, Dd, Dd, Re, Re, Re, Re, Re, Re, Re, Re, Dd, Dd, Gs, Gs, Gs
+Dd, Dd, Re, Re, Dd, Dd, Re, Dd, Re, Re, Re, Re, Re, Re, Hd, Dd, Dd, Dd, Re, Dd, Re, Dd, Re, Gs, Gs, Gs
+Re, Dd, Re, Re, Dd, Dd, Re, Re, Re, Dd, Re, Re, Re, Re, Re, Re, Re, Re, Re, Re, Re, Re, Gs, Gs, Gs, Gs
+Re, Re, Dd, Re, Dd, Dd, Re, Dd, Re, Re, Dd, Dd, Dd, Dd, Dd, Re, Dd, Dd, Re, Dd, Rd, Gs, Ce, Ce, Ce, Gs
+Re, Re, Re, Dd, Re, Dd, Re, Dd, Dd, Dd, Re, Re, Re, Dd, Re, Re, Re, Re, Re, Dd, Gs, Rd, Ce, 1 Ke, Ce, Gs
+Dd, Dd, Re, Re, Dd, Re, Re, Dd, Re, Re, Re, Dd, Re, Re, Re, Gs, Gs, Gs, Gs, Gs, Gs^Vht, Rd, Ce, Ce, Gs, Gs
+Re, Dd, Dd, Dd, Dd, Dd, Re, Re, Hd, Hd, Hd, Re, Dd, Gs, Gs, Gs, Gs, Gs, Gs, Gs, Gs, Rd, Rd, Gs, Re^Vct, Gs
+Re, Re, Re, Dd, Dd, Dd, Dd, Dd, Dd, Hd, Md, Hd, Hh, Gs, Gs, Gs, Gs, Gs, Gs, Gs, Gs, Gs, Rd, Gs, Gs, Gs
+Re, Re, Re, Dd, Re, Dd, Re, Dd, Dd, Hd, Hd, Md, Hh, Gs, Gs, Gs, Gs, Gs, Gs, Gs, Gs, Gs, Gs, Rd, Gs, Gs

@@ -1,0 +1,37 @@
+list of needed updates
+ this is really just for me, only read if you really have nothing better to do with your time
+ (or if you want to help :D)
+
+General issues:
+Get all the scenarios well balanced, preferably with multiple difficulties (LOTS of work here)
+Scatter some in-game dialogue- flavor stuff like the first time Reginald fights someone
+Update the journey's map. Try using the track-placer this time, hm?
+Consider using the new image_pos tag for messages
+Think about those images you came up with while making VoaDaR (also, the new naga hunter from UtBS)
+
+06_The_Northern_Alliance
+Clean up the code. Specifically, a custom event should be used to make the dwarves come out
+	instead of copying the code
+
+08_In_the_Great_Ocean
+Putting units on the same team while pushing is the best solution so far, but now enemies are 
+	shown as allies during pushing. Still not ideal, here.
+
+11_Tentacles_and_Serpents
+put the island in between you and the lich so the fight is more interesting
+
+15_Desperate_War
+make-over the animation for the catapult; it really stinks.
+
+18_Demon_Sicc
+slightly reduce income so it's not only stupid but impossible to wait and earn gold for 
+	an extra recall
+
+22_Demon_Thal
+to make the fight interesting, Thal gets a fleet of some small pest that poisons you
+	so poison is almost everywhere, and then you have to fight
+Maybe he doesn't even use undead, just those poison what-evers and swarms of whirlpools
+
+23_Lichs_Den
+ Fix the lighting in the Ciner cave. It's not doing quite what it should
+
