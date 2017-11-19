@@ -1,4 +1,5 @@
 This is an add-on for The Battle For Wesnoth (www.wesnoth.org). It is currently only availabe on the stable branch, 1.12.6
+Special thanks and image credits are in _main.cfg
 
 Please comment at https://forums.wesnoth.org/viewtopic.php?f=31&t=43630
 
