@@ -84,6 +84,17 @@ Various touch-ups:
 	scenarios that those units appear in)
 -Disallowed recruiting Cavalrymen and Elvish Captains
 
-
+1.2.0
+6/11/2018
+-----
+* Updates for Wesnoth 1.14
+	-Made use of new terrains
+	-Fixed deprecated code
+	-Various small text improvements
+	-Update Dunefolk names
+* A few balance updates:
+	-Made 23_Lichs_Den easier by removing the chaotic bonus
+	-Nerfed Lombosilvitac-Sagadendol again
+	-Less player gold and more enemy gold on 13_Lombosilvitac_Sagadendol
 
 
