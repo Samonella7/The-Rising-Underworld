@@ -3,13 +3,15 @@ list of needed updates
  (or if you want to help :D)
 
 General issues:
+
 Get all the scenarios well balanced, preferably with multiple difficulties (LOTS of work here)
 Scatter some in-game dialogue- flavor stuff like the first time Reginald fights someone
 Update the journey's map. Try using the track-placer this time, hm?
 Consider using the new image_pos tag for messages
-Think about those images you came up with while making VoaDaR (also, the new naga hunter from UtBS)
+Think about those images you came up with while making VoaDaR (also, the new naga hunter and ants from UtBS)
 
 06_The_Northern_Alliance
+Gross balance issues if south orc team isn't smooshed?
 Clean up the code. Specifically, a custom event should be used to make the dwarves come out
 	instead of copying the code
 
