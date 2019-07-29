@@ -107,3 +107,8 @@ Various touch-ups:
 -04_The_Ford_of_Abez: Income increase for both enemy teams
 -06_The_Northern_Alliance: Lets a well-placed elvish rider reach the dwarven doors one
 	turn earlier
+
+1.2.3
+7/29/2019
+-----
+-Fixes completion laurel bug
